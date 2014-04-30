@@ -1,2 +1,7 @@
-Generador-de-C-digos
-====================
+                                     ======================================================
+                                     =                 Generador de Codigos               =
+                                     ======================================================
+                                     
+* Developer: wiD^
+* IDE: Code::Blocks
+* Compiler: MinGW
